@@ -6,7 +6,7 @@ Gathering materials/prepping reagents
 (1) Prepare 75% ethanol with 0.1% DEPC-treated H2O. Use 200 proof ehtanol (100%). 
 (2) Grab reagents:
 - RNAzol RT (in 209 fridge)
-- 2-propabol (under hood in 209)
+- 2-propanol (aka isopropanol) (under hood in 209)
 - 75% ethanol (made above)
 - 0.1% DEPC-treated H2O
 - Ice
